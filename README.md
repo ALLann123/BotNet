@@ -15,3 +15,5 @@ Internet Relay Chats can be utilized as a c2 channel and we are able to use pyth
     returns back the feedback to the chat
 
 ![Screenshot 2025-01-07 171456](https://github.com/user-attachments/assets/58400b3f-3afb-4057-b1e0-17c9518147af)
+Multiple zombies
+![Screenshot 2025-01-07 184841](https://github.com/user-attachments/assets/b66c8b55-accc-4038-98fb-9fc616347df3)
